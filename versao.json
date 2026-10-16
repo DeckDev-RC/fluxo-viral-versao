@@ -1,4 +1,4 @@
 {
- "versao": "1.0.0",
- "resumo": "Primeira versão do Fluxo Viral: do começar ao reel pronto, com pautas do seu nicho, roteiro, voz (ElevenLabs, sua voz ou OpenAI), 4 estilos visuais, efeitos sonoros, revisão com nota e atualização segura."
+ "versao": "1.0.1",
+ "resumo": "O reel agora sai com a cara do seu perfil: além do estilo e da cor de destaque, você escolhe a **fonte** (Grotesca, Clássica, Condensada, Arredondada ou Moderna) e o **jeito da legenda** (padrão, em caixa ou grande). Diga \"muda a fonte\", \"legenda em caixa\" ou \"reconfigurar\" e a IA mostra as opções lado a lado. Quem já configurou continua com o visual de antes até pedir a troca."
 }
