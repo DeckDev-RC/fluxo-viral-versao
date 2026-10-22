@@ -1,4 +1,4 @@
 {
- "versao": "1.1.0",
- "resumo": "Seu primeiro reel sai logo depois da instalação: a configuração agora faz só 5 perguntas, e o resto (público, fontes, fonte e legenda, ritmo) você completa depois do primeiro vídeo. Datas, horários e telefones aparecem certos na cena de número, e um valor longo demais é avisado antes do render. O kit também ficou pronto para os módulos de melhoria que vão chegar na área de membros. O primeiro reel ficou mais caprichado: print de página na largura do celular que preenche a cena (texto grande e legível), imagem oficial recortada no que importa, voz escolhida pelo ritmo e ajustada sozinha se sair lenta ou rápida, trilha que não acaba antes do vídeo e prévias sem tela vazia."
+ "versao": "1.1.1",
+ "resumo": "Na fonte **Condensada**, os títulos em maiúsculas não perdem mais acento nem cedilha (\"ESTÂNCIA\", \"CARCAÇA\"): as linhas ganharam o espaço que essa fonte precisa. E o retângulo que marca o trecho no print aparece mesmo quando sua cor de destaque é amarela ou verde-clara: nesse caso ele sai na cor de alerta do estilo."
 }
