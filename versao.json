@@ -1,4 +1,4 @@
 {
- "versao": "1.1.1",
- "resumo": "Na fonte **Condensada**, os títulos em maiúsculas não perdem mais acento nem cedilha (\"ESTÂNCIA\", \"CARCAÇA\"): as linhas ganharam o espaço que essa fonte precisa. E o retângulo que marca o trecho no print aparece mesmo quando sua cor de destaque é amarela ou verde-clara: nesse caso ele sai na cor de alerta do estilo."
+ "versao": "1.2.0",
+ "resumo": "Cada reel agora é **feito sob medida**: em vez de encaixar a notícia em cenas prontas, a IA escreve as cenas daquele reel, a partir da imagem que só aquela notícia tem, com o mesmo método e as mesmas ferramentas de edição dos reels de um perfil de notícias de tecnologia (os melhores vêm como exemplo, para aprender técnica). Antes do vídeo ela mostra o storyboard; depois, faz uma crítica de diretor, passa um checklist de 62 erros comuns e dá a nota. Ferramentas novas: trecho do vídeo oficial da notícia (`video.py`, com o som ao vivo se precisar), folha de movimento, pausas e ritmo na voz, mapa, rastreio de objeto em movimento, recorte sem fundo, 3D e \"como foi o reel\" (cole os números do Instagram e o kit aprende com eles). As skills de edição vêm direto do site de cada autor. Seus reels antigos continuam abrindo e renderizando como antes."
 }
