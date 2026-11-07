@@ -1,4 +1,4 @@
 {
- "versao": "2.1.0",
- "resumo": "O kit agora **escolhe o formato pelo que você pede**: notícia, explicativo animado, dica ou anúncio, sem forçar tudo a virar notícia. O vídeo ocupa a **tela inteira**, o número sai certinho na legenda, a nota ficou mais rigorosa e o **render não cai mais no meio** (e fica mais rápido: a checagem acha o problema antes do vídeo inteiro). Chegou também o **Editor de Vídeo**, curso à parte na área de membros, que edita o vídeo que **você mesmo gravou**: corta os erros e as pausas e põe legenda. Com o módulo baixado, basta dizer **\"instalei um módulo\"**. A atualização é grátis."
+ "versao": "2.1.1",
+ "resumo": "Correção para **Mac com macOS 13 ou 14**: o vídeo podia travar no fim do render. Agora o kit ajusta sozinho o motor de vídeo no primeiro vídeo (baixa uns 20 MB, uma vez só). O kit passa a pedir o macOS 13 ou mais novo; no Windows e nos Macs mais novos, nada muda."
 }
