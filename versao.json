@@ -1,4 +1,4 @@
 {
- "versao": "2.1.1",
- "resumo": "Correção para **Mac com macOS 13 ou 14**: o vídeo podia travar no fim do render. Agora o kit ajusta sozinho o motor de vídeo no primeiro vídeo (baixa uns 20 MB, uma vez só). O kit passa a pedir o macOS 13 ou mais novo; no Windows e nos Macs mais novos, nada muda."
+ "versao": "3.0.1",
+ "resumo": "**Vídeo pronto em uns 20 a 30 minutos, como na 2.1.** Todo vídeo novo agora vai direto no **modo Rápido**, sem pergunta: a IA avisa em uma linha e já começa. Ela lê menos coisa antes de trabalhar (no explicativo animado, menos da metade das instruções de antes), então sobra mais do limite do seu plano para o vídeo."
 }
