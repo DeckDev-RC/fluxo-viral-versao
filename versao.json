@@ -1,4 +1,4 @@
 {
- "versao": "3.0.1",
- "resumo": "**Vídeo pronto em uns 20 a 30 minutos, como na 2.1.** Todo vídeo novo agora vai direto no **modo Rápido**, sem pergunta: a IA avisa em uma linha e já começa. Ela lê menos coisa antes de trabalhar (no explicativo animado, menos da metade das instruções de antes), então sobra mais do limite do seu plano para o vídeo."
+ "versao": "3.0.2",
+ "resumo": "**O som do vídeo não para mais por falta de uma peça do Python.** O kit usa duas bibliotecas (numpy e Pillow) para montar o som e as imagens, e um Python recém-instalado não traz nenhuma delas. Agora a instalação coloca as duas, e quem já tinha o kit instalado não precisa fazer nada: no primeiro pedido, a IA avisa em uma frase e instala sozinha, sem fechar o app."
 }
