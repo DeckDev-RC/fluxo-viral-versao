@@ -1,4 +1,7 @@
 {
- "versao": "3.1.1",
- "resumo": "Os vídeos ficam prontos mais rápido e gastam menos do limite do seu plano, com mais acabamento: a câmera passeia pela mesa nas animações, foto de produto ganha profundidade, a música para na virada, a cor fica certa no celular e a vitrine está toda em movimento. Todos os módulos foram melhorados e conversam direto com o Fluxo Viral. Para atualizar: na área de membros, baixe o \"Fluxo Viral 3.1.1\" da aula de instalação (a do Claude ou a do ChatGPT, a que você usa), deixe o arquivo na pasta Downloads (sem abrir nem extrair) e escreva aqui: atualizar. Tem módulo? Baixe também a versão nova dele na aula do módulo e escreva: instalei um módulo."
+ "versao": "3.2.0",
+ "resumo": "Agora basta colar um link para instalar ou atualizar o Fluxo Viral, sem baixar nem extrair ZIP, e a animação padrão (A01 Colagem) ficou mais caprichada. Para atualizar, abra a pasta do kit e cole aqui: Atualize o meu Fluxo Viral com este link, sem mexer nas minhas configurações e nos meus vídeos: https://github.com/DeckDev-RC/fluxo-viral-versao/releases/latest/download/FluxoViral.zip (se o kit não aceitar o link direto, baixe o arquivo para a pasta Downloads e faça o \"atualizar\" com ele).",
+ "url": "https://github.com/DeckDev-RC/fluxo-viral-versao/releases/download/v3.2.0/FluxoViral-v3.2.0.zip",
+ "sha256": "024a2ff6504dde8b24968c3df9944b2ee4ba70e67c2543800ab16b1c00804a6a",
+ "tamanho": 80929164
 }
