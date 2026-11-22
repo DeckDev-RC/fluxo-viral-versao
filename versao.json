@@ -1,7 +1,7 @@
 {
- "versao": "3.2.0",
- "resumo": "Agora basta colar um link para instalar ou atualizar o Fluxo Viral, sem baixar nem extrair ZIP, e a animação padrão (A01 Colagem) ficou mais caprichada. Para atualizar, abra a pasta do kit e cole aqui: Atualize o meu Fluxo Viral com este link, sem mexer nas minhas configurações e nos meus vídeos: https://github.com/DeckDev-RC/fluxo-viral-versao/releases/latest/download/FluxoViral.zip (se o kit não aceitar o link direto, baixe o arquivo para a pasta Downloads e faça o \"atualizar\" com ele).",
- "url": "https://github.com/DeckDev-RC/fluxo-viral-versao/releases/download/v3.2.0/FluxoViral-v3.2.0.zip",
- "sha256": "024a2ff6504dde8b24968c3df9944b2ee4ba70e67c2543800ab16b1c00804a6a",
- "tamanho": 80929164
+ "versao": "3.2.1",
+ "resumo": "Conserto pequeno: a atualização deixava uma pasta escondida \".atualizando-lixo\" dentro do kit no Windows. Agora ela não fica mais, e o kit apaga sozinho as que sobraram das atualizações anteriores. Quem ainda está na 3.1.1 ganha também tudo da 3.2.0 (instalar e atualizar colando um link, A01 Colagem mais caprichado). Para atualizar, abra a pasta do kit e cole aqui: Atualize o meu Fluxo Viral com este link, sem mexer nas minhas configurações e nos meus vídeos: https://github.com/DeckDev-RC/fluxo-viral-versao/releases/latest/download/FluxoViral.zip (se o kit não aceitar o link direto, baixe o arquivo para a pasta Downloads e faça o \"atualizar\" com ele).",
+ "url": "https://github.com/DeckDev-RC/fluxo-viral-versao/releases/download/v3.2.1/FluxoViral-v3.2.1.zip",
+ "sha256": "3247c2229119fb96e6f7fe49b8d9fa607699dcf00cff104534be7c8e8ac06fb0",
+ "tamanho": 80930210
 }
